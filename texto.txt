@@ -1,1 +1,7 @@
 Creacion de un archivo
+Holaaa!!!
+
+Estor practicando web 3
+esto es una prueba de Git!!!
+
+Se agrego otra linea de texto
